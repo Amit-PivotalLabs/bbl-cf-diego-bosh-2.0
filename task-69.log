@@ -1,0 +1,38 @@
+Acting as user 'user-vEYHxaN' on 'my-bosh'
+
+Director task 69
+  Started preparing deployment > Preparing deployment. Done (00:00:01)
+
+  Started preparing package compilation > Finding packages to compile. Done (00:00:00)
+
+  Started creating missing vms
+  Started creating missing vms > runner/4 (3a7486ad-c00b-4805-83d6-a8f2e3503b12)
+  Started creating missing vms > runner/5 (5cf34b90-f693-46e5-910e-4bfaf5c83593)
+  Started creating missing vms > runner/6 (9c49ca3b-065d-467f-8f87-f44b47f00107)
+  Started creating missing vms > runner/2 (abad9b74-248d-499b-b1db-e394e4e3ea84)
+  Started creating missing vms > runner/3 (ba3c8863-3d25-4cf1-aff2-877005eec939)
+  Started creating missing vms > runner/7 (bceee2cf-c5c6-417a-b2fc-612fecfee854). Done (00:01:20)
+     Done creating missing vms > runner/2 (abad9b74-248d-499b-b1db-e394e4e3ea84) (00:01:21)
+     Done creating missing vms > runner/4 (3a7486ad-c00b-4805-83d6-a8f2e3503b12) (00:01:21)
+     Done creating missing vms > runner/6 (9c49ca3b-065d-467f-8f87-f44b47f00107) (00:01:21)
+     Done creating missing vms > runner/3 (ba3c8863-3d25-4cf1-aff2-877005eec939) (00:01:22)
+     Done creating missing vms > runner/5 (5cf34b90-f693-46e5-910e-4bfaf5c83593) (00:01:27)
+     Done creating missing vms (00:01:27)
+
+  Started updating job runner
+  Started updating job runner > runner/4 (3a7486ad-c00b-4805-83d6-a8f2e3503b12) (canary). Done (00:01:05)
+  Started updating job runner > runner/5 (5cf34b90-f693-46e5-910e-4bfaf5c83593). Done (00:01:06)
+  Started updating job runner > runner/6 (9c49ca3b-065d-467f-8f87-f44b47f00107)
+  Started updating job runner > runner/2 (abad9b74-248d-499b-b1db-e394e4e3ea84)
+     Done updating job runner > runner/6 (9c49ca3b-065d-467f-8f87-f44b47f00107) (00:01:04)
+     Done updating job runner > runner/2 (abad9b74-248d-499b-b1db-e394e4e3ea84) (00:01:05)
+  Started updating job runner > runner/3 (ba3c8863-3d25-4cf1-aff2-877005eec939)
+  Started updating job runner > runner/7 (bceee2cf-c5c6-417a-b2fc-612fecfee854). Done (00:01:06)
+     Done updating job runner > runner/3 (ba3c8863-3d25-4cf1-aff2-877005eec939) (00:01:06)
+     Done updating job runner (00:04:22)
+
+Task 69 done
+
+Started		2016-07-03 07:21:06 UTC
+Finished	2016-07-03 07:26:59 UTC
+Duration	00:05:53
